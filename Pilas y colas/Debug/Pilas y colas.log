@@ -1,0 +1,10 @@
+﻿  Pilas y colas.cpp
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(69,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(64,7): warning C4101: 's': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(119,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(115,7): warning C4101: 's': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(167,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(163,7): warning C4101: 's': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(216,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Pilas y colas\Pilas y colas.cpp(212,7): warning C4101: 's': variable local sin referencia
+  Pilas y colas.vcxproj -> C:\Users\Juárez Arevalo\Desktop\Hoja Pilas y Colas\Pilas y colas\Debug\Pilas y colas.exe
